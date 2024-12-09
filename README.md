@@ -49,7 +49,7 @@ The following are the files in this project.
 
 ---
 
-#### Project Outcome
+## Project Outcome
 
 ##### **CURRENT TECHNOLOGIES USAGE**
 ![Current Technologies Usage](/images/dashboard-images/CurrentTechnologies.png)
